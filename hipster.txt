@@ -11,3 +11,5 @@ Craeting a new branch and experimenting on the branch
 TO disable the fast forward branch
 
 i did change in newbranch and oldbranch
+
+editing on the remote branch 
